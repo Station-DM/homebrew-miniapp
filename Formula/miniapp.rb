@@ -1,8 +1,8 @@
 class Miniapp < Formula
   desc "Host SDK integration helper for mini apps"
   homepage "https://github.com/Station-DM/miniapp-cli"
-  url "https://github.com/Station-DM/miniapp-cli/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "c7268583d66bc48f2ab4bc9e447af3069cbc4fb03a191e877ccbffaec37f1c83"
+  url "https://github.com/Station-DM/miniapp-cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "a16f273d0e28eebeae4142e81d61c55cd4daec54c71553dfe7a17c85dec1db5d"
   license "MIT"
 
   depends_on macos: :ventura
